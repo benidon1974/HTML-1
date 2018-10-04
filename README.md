@@ -7,7 +7,7 @@ In the free course [HTML Basics](http://) the students will make their first ste
 
 The course includes topics such as **HTML tags**, **using tables**, **forms and inputs** and more...
 
-##  Course Program
+##  <b>Course Program</b>
 
 ### [00. Course Introduction](/Topics/00. Course-Introduction)
 
